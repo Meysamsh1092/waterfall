@@ -3,16 +3,16 @@
 This script provides a menu-driven interface to manage Waterwall configurations and services.
 
 ## Features
-- **Create Configuration and Service:** Set up Backhaul TCP with customizable options.
-- **Remove Configuration and Service:** Completely remove Backhaul configurations and systemd service.
+- **Create Configuration and Service:** Set up waterwall TCP with customizable options.
+- **Remove Configuration and Service:** Completely remove waterwall configurations and systemd service.
 - **Restart Service:** Restart the Waterwall service.
 - ** create crontab to restart the service.
-- **GitHub:** [mahdipatriot/waterwall](https://github.com/mahdipatriot/waterwall)
-- **Source:** [radkesvat/WaterWall](https://github.com/Musixal/Backhaul)
+- **GitHub:** [meysamsh1092/waterwall](https://github.com/meysamsh1092/waterwall)
+- **Source:** [radkesvat/WaterWall]
 
 ## Installation
 
 To use this script, run the following command in your terminal:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/mahdipatriot/backhaul/main/backhaul.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/meysamsh1092/backhaul/main/waterwall.sh)
