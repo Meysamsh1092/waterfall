@@ -15,4 +15,4 @@ This script provides a menu-driven interface to manage Waterwall configurations 
 To use this script, run the following command in your terminal:
 
 ```bash
-bash <(curl -Ls https://raw.githubusercontent.com/meysamsh1092/backhaul/main/waterwall.sh)
+bash <(curl -Ls https://raw.githubusercontent.com/meysamsh1092/waterwall/main/waterwall.sh)
