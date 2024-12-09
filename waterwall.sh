@@ -181,7 +181,7 @@ main_menu() {
         clear
         echo -e "${GREEN}"
         echo "========================================="
-        echo "   Meysamsh1092 waterwall MENU           "
+        echo "             waterwall MENU           "
         echo "========================================="
         echo -e "${NC}"
 
