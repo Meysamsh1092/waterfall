@@ -8,7 +8,7 @@ This script provides a menu-driven interface to manage Waterwall configurations 
 - **Restart Service:** Restart the Waterwall service.
 - ** create crontab to restart the service.
 - **GitHub:** [meysamsh1092/waterwall](https://github.com/meysamsh1092/waterwall)
-- **Source:** [radkesvat/WaterWall]
+- **Source:** [radkesvat/WaterWall](https://github.com/radkesvat/WaterWall)
 
 ## Installation
 
