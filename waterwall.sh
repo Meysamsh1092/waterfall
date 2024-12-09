@@ -1,5 +1,16 @@
 #!/bin/bash
-
+echo -e "\e[1;31m#########################################################\e[0m"
+echo -e "\e[1;31m#                                                       #\e[0m"
+echo -e "\e[1;31m#                      ███╗   ███╗                      #\e[0m"
+echo -e "\e[1;31m#                      ████╗ ████║                      #\e[0m"
+echo -e "\e[1;31m#                      ██╔████╔██║                      #\e[0m"
+echo -e "\e[1;31m#                      ██║╚██╔╝██║                      #\e[0m"
+echo -e "\e[1;31m#                      ██║ ╚═╝ ██║                      #\e[0m"
+echo -e "\e[1;31m#                      ╚═╝     ╚═╝                      #\e[0m"
+echo -e "\e[1;31m#                                                       #\e[0m"
+echo -e "\e[1;31m#                   M E Y S A M S H 1 0 9 2             #\e[0m"
+echo -e "\e[1;31m#########################################################\e[0m"
+echo ""
 # Color codes
 RED='\033[0;31m'
 GREEN='\033[0;32m'
@@ -170,7 +181,7 @@ main_menu() {
         clear
         echo -e "${GREEN}"
         echo "========================================="
-        echo "   MahdiPatrioT waterwall MENU           "
+        echo "   Meysamsh1092 waterwall MENU           "
         echo "========================================="
         echo -e "${NC}"
 
