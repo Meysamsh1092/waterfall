@@ -10,7 +10,7 @@ NC='\033[0m' # No Color
 # Directories and files
 CONFIG_DIR="/root/waterwall"
 SERVICE_DIR="/etc/systemd/system"
-RESET_SCRIPT="/etc/mahdiratholereset.sh"
+RESET_SCRIPT="/etc/meysamsh1092reset.sh"
 CRON_FILE="/etc/cron.d/rathole_cron"
 
 # Function to create Waterwall configuration and service
@@ -180,7 +180,7 @@ main_menu() {
         echo -e "${YELLOW}4. Restart Waterwall Service${NC}"
         echo -e "${CYAN}5. Exit${NC}"
         echo ""
-        echo -e "${CYAN}GitHub: [mahdipatriot/waterwall](https://github.com/mahdipatriot/waterwall)${NC}"
+        echo -e "${CYAN}GitHub: [meysamsh1092/waterwall](https://github.com/meysamsh1092/waterwall)${NC}"
         echo -e "${CYAN}Source: [radkesvat/WaterWall](https://github.com/radkesvat/WaterWall)${NC}"
         echo ""
         echo -n "Enter your choice: "
